@@ -1,0 +1,25 @@
+LICENSE AGREEMENT
+
+This software (Gapp) is owned by **Gamma Corporation** and is licensed, not sold. By using this software, you agree to the following terms and conditions:
+
+1. **Grant of License:**
+   Gamma Corporation grants you a non-exclusive, non-transferable license to use this software for personal or internal business purposes.
+
+2. **Restrictions:**
+   You may not reverse engineer, decompile, or disassemble the software. You are not permitted to redistribute or resell the software, unless expressly authorized by Gamma Corporation.
+
+3. **Ownership:**
+   Gamma Corporation retains all ownership, rights, and intellectual property in and to the software, including any modifications, enhancements, or updates provided by Gamma Corporation.
+
+4. **No Warranty:**
+   The software is provided "as-is" without warranty of any kind, either express or implied. Gamma Corporation does not warrant that the software will be error-free or meet your specific needs.
+
+5. **Limitation of Liability:**
+   Gamma Corporation is not liable for any damages, whether direct, indirect, or incidental, arising from the use or inability to use the software.
+
+6. **Termination:**
+   Gamma Corporation reserves the right to terminate this license if you violate any of the terms herein.
+
+By using this software, you agree to comply with the above terms and conditions.
+
+© 2025 Gamma Corporation. All Rights Reserved.
